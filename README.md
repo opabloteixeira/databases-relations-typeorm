@@ -1,11 +1,4 @@
-
-
-
-
-PAREI NO  1:06:30
-
-
-ativar
+ativar no banco
 CREATE EXTENSION IF NOT EXISTS "uuid-ossp";
 
 ### Banco de dados
